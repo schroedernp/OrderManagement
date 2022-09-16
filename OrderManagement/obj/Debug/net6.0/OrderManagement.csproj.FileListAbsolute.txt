@@ -1,0 +1,15 @@
+C:\Users\Utilizador\BackUp\Programador Informático\C#\Curso 2 - C# COMPLETO Programação Orientada a Objetos + Projetos\Capitulo 9\OrderManagement\OrderManagement\bin\Debug\net6.0\OrderManagement.exe
+C:\Users\Utilizador\BackUp\Programador Informático\C#\Curso 2 - C# COMPLETO Programação Orientada a Objetos + Projetos\Capitulo 9\OrderManagement\OrderManagement\bin\Debug\net6.0\OrderManagement.deps.json
+C:\Users\Utilizador\BackUp\Programador Informático\C#\Curso 2 - C# COMPLETO Programação Orientada a Objetos + Projetos\Capitulo 9\OrderManagement\OrderManagement\bin\Debug\net6.0\OrderManagement.runtimeconfig.json
+C:\Users\Utilizador\BackUp\Programador Informático\C#\Curso 2 - C# COMPLETO Programação Orientada a Objetos + Projetos\Capitulo 9\OrderManagement\OrderManagement\bin\Debug\net6.0\OrderManagement.dll
+C:\Users\Utilizador\BackUp\Programador Informático\C#\Curso 2 - C# COMPLETO Programação Orientada a Objetos + Projetos\Capitulo 9\OrderManagement\OrderManagement\bin\Debug\net6.0\OrderManagement.pdb
+C:\Users\Utilizador\BackUp\Programador Informático\C#\Curso 2 - C# COMPLETO Programação Orientada a Objetos + Projetos\Capitulo 9\OrderManagement\OrderManagement\obj\Debug\net6.0\OrderManagement.csproj.AssemblyReference.cache
+C:\Users\Utilizador\BackUp\Programador Informático\C#\Curso 2 - C# COMPLETO Programação Orientada a Objetos + Projetos\Capitulo 9\OrderManagement\OrderManagement\obj\Debug\net6.0\OrderManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\BackUp\Programador Informático\C#\Curso 2 - C# COMPLETO Programação Orientada a Objetos + Projetos\Capitulo 9\OrderManagement\OrderManagement\obj\Debug\net6.0\OrderManagement.AssemblyInfoInputs.cache
+C:\Users\Utilizador\BackUp\Programador Informático\C#\Curso 2 - C# COMPLETO Programação Orientada a Objetos + Projetos\Capitulo 9\OrderManagement\OrderManagement\obj\Debug\net6.0\OrderManagement.AssemblyInfo.cs
+C:\Users\Utilizador\BackUp\Programador Informático\C#\Curso 2 - C# COMPLETO Programação Orientada a Objetos + Projetos\Capitulo 9\OrderManagement\OrderManagement\obj\Debug\net6.0\OrderManagement.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\BackUp\Programador Informático\C#\Curso 2 - C# COMPLETO Programação Orientada a Objetos + Projetos\Capitulo 9\OrderManagement\OrderManagement\obj\Debug\net6.0\OrderManagement.dll
+C:\Users\Utilizador\BackUp\Programador Informático\C#\Curso 2 - C# COMPLETO Programação Orientada a Objetos + Projetos\Capitulo 9\OrderManagement\OrderManagement\obj\Debug\net6.0\refint\OrderManagement.dll
+C:\Users\Utilizador\BackUp\Programador Informático\C#\Curso 2 - C# COMPLETO Programação Orientada a Objetos + Projetos\Capitulo 9\OrderManagement\OrderManagement\obj\Debug\net6.0\OrderManagement.pdb
+C:\Users\Utilizador\BackUp\Programador Informático\C#\Curso 2 - C# COMPLETO Programação Orientada a Objetos + Projetos\Capitulo 9\OrderManagement\OrderManagement\obj\Debug\net6.0\OrderManagement.genruntimeconfig.cache
+C:\Users\Utilizador\BackUp\Programador Informático\C#\Curso 2 - C# COMPLETO Programação Orientada a Objetos + Projetos\Capitulo 9\OrderManagement\OrderManagement\obj\Debug\net6.0\ref\OrderManagement.dll
